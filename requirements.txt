@@ -1,0 +1,5 @@
+streamlit==1.26.0
+numpy==1.23.5
+matplotlib==3.7.2
+pandas==2.1.0
+rdkit-pypi==2023.9.5
